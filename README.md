@@ -1,13 +1,13 @@
 ## Hi there 👋
 I'm a Computer Science student at University of Saint Louis Baguio, aspiring to become a Backend Developer and a Database Administrator. Passionate about building efficient systems, optimizing databases, and working with Rust, PHP, MySQL, and other backend technologies.
 
-##Technologies & Tools
+## Technologies & Tools
 Languages: Rust, PHP, Java, JavaScript, SQL,
 Databases: MySQL, MongoDB
 Frameworks: React
 Other Tools: Docker, JUnit, Git, CodeceptJS
 
-##📫 Connect with Me
+## 📫 Connect with Me
 📫 Email: mariusglenn@gmail.com🔗 
 LinkedIn: www.linkedin.com/in/marius-glenn-nonato-3645862b7💬 
 
